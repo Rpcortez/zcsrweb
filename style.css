@@ -1,0 +1,17 @@
+body{
+    background-image: url('Car3\ .png');
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .Discover{
+    border: solid 1px black;
+    background-color: #D21312;
+    border-radius: 35px;
+    width: 200px;
+    padding-left: 10px;
+    margin-left: 180px;
+    margin-top: 500px;
+    height: 100px;
+  }
