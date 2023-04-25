@@ -8,10 +8,12 @@ body{
   .Discover{
     border: solid 1px black;
     background-color: #D21312;
-    border-radius: 35px;
+    border-radius: 500px;
     width: 200px;
     padding-left: 10px;
     margin-left: 180px;
-    margin-top: 500px;
+    margin-top: 550px;
     height: 100px;
+    font-size: 35px;
+    font-family: 'Fira Sans Condensed', sans-serif;
   }
